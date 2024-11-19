@@ -106,7 +106,7 @@ body {
 }
 
 .foto-profissional {
-    width: 40%;
+    width: 50%;
     border: 2px solid var(--cor-terciaria);
     border-radius: 16px;
 }
