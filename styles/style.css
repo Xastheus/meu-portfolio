@@ -144,4 +144,8 @@ body {
     .apresentacao__links__estilo {
         width: auto;
     }
+
+    .foto-profissional {
+        width: 50%;
+    }
 }
