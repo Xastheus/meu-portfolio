@@ -107,8 +107,8 @@ body {
 
 .foto-profissional {
     width: 40%;
-    border: 0.125rem solid var(--cor-terciaria);
-    border-radius: 1rem;
+    border: 2px solid var(--cor-terciaria);
+    border-radius: 16px;
 }
 
 
